@@ -1,0 +1,24 @@
+{
+  "name": "roasrme-dev",
+  "version": "1.0.0",
+  "description": "great things are comming\r Developers :\r 1) Sumit Chapagain\r <br>\r 2)Arjun Sapkota",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SumitChapagain/roasrme-dev.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SumitChapagain/roasrme-dev/issues"
+  },
+  "homepage": "https://github.com/SumitChapagain/roasrme-dev#readme",
+  "dependencies": {
+    "body-parser": "^2.2.0",
+    "express": "^5.1.0"
+  }
+}
